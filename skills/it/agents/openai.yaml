@@ -1,0 +1,4 @@
+interface:
+  display_name: "KISS IT"
+  short_description: "Write simpler, clearer code."
+  default_prompt: "Use $kiss:it to keep this change simple, clear, and focused."
