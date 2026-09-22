@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "kiss",
+  "version": "0.1.0",
+  "description": "Opinionated guidance for simple, necessary, test-first software changes.",
+  "repository": "https://github.com/baldaworks/kiss",
+  "license": "MIT",
+  "keywords": [
+    "kiss",
+    "dry",
+    "yagni",
+    "test-first"
+  ]
+}
