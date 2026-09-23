@@ -1,11 +1,9 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "kiss",
   "version": "0.3.0",
   "description": "Write simpler, clearer code with KISS, DRY, and YAGNI.",
   "author": {
-    "name": "Alexey Samoylov",
-    "url": "https://github.com/baldaworks"
+    "name": "Alexey Samoylov"
   },
   "homepage": "https://github.com/baldaworks/kiss",
   "repository": "https://github.com/baldaworks/kiss",
@@ -13,7 +11,8 @@
   "keywords": [
     "kiss",
     "dry",
-    "yagni",
-    "test-first"
-  ]
+    "yagni"
+  ],
+  "displayName": "KISS IT",
+  "skills": "./prefixed-skills/"
 }

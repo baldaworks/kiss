@@ -1,0 +1,22 @@
+{
+  "name": "kiss",
+  "owner": {
+    "name": "Alexey Samoylov",
+    "url": "https://github.com/baldaworks"
+  },
+  "description": "KISS IT for Grok Build.",
+  "plugins": [
+    {
+      "name": "kiss",
+      "description": "Write simpler, clearer code with KISS, DRY, and YAGNI.",
+      "version": "0.3.0",
+      "source": "./plugins/kiss",
+      "homepage": "https://github.com/baldaworks/kiss",
+      "keywords": [
+        "kiss",
+        "dry",
+        "yagni"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@baldaworks/kiss",
+  "version": "0.3.0",
+  "description": "KISS IT skill for coding agents.",
+  "type": "module",
+  "exports": "./integrations/opencode/index.js",
+  "files": [
+    "integrations/opencode/index.js",
+    "skills/it/SKILL.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "author": "Alexey Samoylov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldaworks/kiss.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "opencode": ">=2.0.0 <3"
+  }
+}

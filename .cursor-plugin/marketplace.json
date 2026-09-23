@@ -1,0 +1,24 @@
+{
+  "name": "kiss",
+  "owner": {
+    "name": "Alexey Samoylov"
+  },
+  "metadata": {
+    "description": "KISS IT for Cursor.",
+    "version": "0.3.0"
+  },
+  "plugins": [
+    {
+      "name": "kiss",
+      "source": "./plugins/kiss",
+      "description": "Write simpler, clearer code with KISS, DRY, and YAGNI.",
+      "version": "0.3.0",
+      "category": "developer-tools",
+      "tags": [
+        "kiss",
+        "dry",
+        "yagni"
+      ]
+    }
+  ]
+}

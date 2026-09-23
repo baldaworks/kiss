@@ -1,5 +1,4 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "kiss",
   "version": "0.3.0",
   "description": "Write simpler, clearer code with KISS, DRY, and YAGNI.",
@@ -13,7 +12,7 @@
   "keywords": [
     "kiss",
     "dry",
-    "yagni",
-    "test-first"
-  ]
+    "yagni"
+  ],
+  "skills": "./prefixed-skills/"
 }
